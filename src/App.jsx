@@ -13,7 +13,7 @@ function App() {
   useEffect(() => {
     dispatch(loadUsers());
     dispatch(loadTodos());
-  }, []);
+  }, [dispatch]);
 
   return (
     <div className='App'>
