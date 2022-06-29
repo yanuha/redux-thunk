@@ -1,6 +1,6 @@
 {
-  "short_name": "Redux thunk",
-  "name": "Redux thunk",
+  "short_name": "Redux-thunk",
+  "name": "Redux-thunk",
   "icons": [
     {
       "src": "favicon.ico",
